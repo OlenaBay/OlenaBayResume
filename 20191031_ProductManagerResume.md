@@ -11,7 +11,12 @@ Proficient in the following areas:
  - Computer skills in such programs as AutoCAD, Microstation, Revit, lighting design software, Microsoft Windows, Microsoft Word, Excel, Outlook, PowerPoint, Lotus.
 
 #### 231 165th Ave NE| Bellevue, Washington 98008 425.614.7397 | olenaobay@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/olenabay/)
-
+## Engineering and Technical Expertise
+ - Power Systems Design, Protection and Controls
+ - Knowledge of NEC, NEMA, IEEE, and Energy Codes
+ - Lighting Design and Controls
+ - Revit, AutoCAD, Microstation
+ - Microsoft Office, Energy Pro, AGI
 ## Experience Highlights
 ### Electrical Project Designer | Hargis Engineers
 #### Seattle, WA | 2012—Present
