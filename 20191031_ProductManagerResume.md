@@ -32,3 +32,13 @@ As lighting sales assistant manager worked closely with manufacture representati
 #### London, United Kingdom | 2002—2006
 Assisted customers on the showroom floor with lighting selections. Acquired and maintained sufficient product knowledge and strived to continually increase knowledge base.
 Participated in on and offsite meetings, trainings, and events as required.
+
+## Education and Certifications
+### Certificate Program
+Lighting Design Lab Seattle, Washington 2006, 2008
+### Certificate Program-Autocad 
+Renton Technical College Renton, Washington 2006
+## Associate of Business and Management
+Keble College Oxford, United Kingdom 2002-2004
+## Bachelor of Science, Electrical Engineering
+State Technical University Zaporozhya, Ukraine 1996-2001
