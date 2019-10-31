@@ -9,3 +9,5 @@ Proficient in the following areas:
  - Analytical skills such as performing fault analysis, equipment specification, load calculations, voltage drop calculation
  - Diversified knowledge of national codes and standards
  - Computer skills in such programs as AutoCAD, Microstation, Revit, lighting design software, Microsoft Windows, Microsoft Word, Excel, Outlook, PowerPoint, Lotus.
+
+##231 165th Ave NE| Bellevue, Washington 98008 425.614.7397 | olenaobay@gmail.com
